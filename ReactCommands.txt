@@ -1,2 +1,8 @@
+(git bush)
+
 npm install -g create-react-app
-create-react-app my-app // create-react-app .
+create-react-app my-app // create-react-app . (создать проект в текущей папке)
+npm run build
+npm run start
+
+ctrl + c  + потвердить y - (отменить выполнение проекта)
