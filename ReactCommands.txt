@@ -1,8 +1,13 @@
-(git bush)
+lehavolikov@gmail.com/sosiherblya63 - github
+(git bush/ VC Code Terminal)
 
-npm install -g create-react-app
+1. вариант
+npm install -g create-react-app (установка create-react-app глобально)
 create-react-app my-app // create-react-app . (создать проект в текущей папке)
-npm run build
-npm run start
+2. вариант
+npx create-react-app . (создать проект в текущей папке)
+
+npm run build (сбилдить)
+npm run start (запустить)
 
 ctrl + c  + потвердить y - (отменить выполнение проекта)
