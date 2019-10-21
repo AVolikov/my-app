@@ -4,7 +4,7 @@ lehavolikov@gmail.com/sosiherblya63 - github
 1. вариант
 npm install -g create-react-app (установка create-react-app глобально)
 create-react-app my-app // create-react-app . (создать проект в текущей папке)
-2. вариант
+2. вариант (NPX will temporarily install create-react-app and create a new react project)
 npx create-react-app . (создать проект в текущей папке)
 
 npm run build (сбилдить)
