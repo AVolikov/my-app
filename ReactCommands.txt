@@ -11,3 +11,10 @@ npm run build (сбилдить)
 npm run start (запустить)
 
 ctrl + c  + потвердить y - (отменить выполнение проекта)
+
+
+http://159.69.85.4:7777/api/alexey/tasks
+
+npm install axios --save
+
+npm install --save prop-types
