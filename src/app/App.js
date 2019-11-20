@@ -3,6 +3,7 @@ import "./App.css";
 import { Button1, Button2 } from "../common/Buttons";
 import ToDoList from "../to-do/ToDoList";
 import ScrollStatus from "../scroll-status/ScrollStatus.jsx";
+import StickyNav from "../sticky-nav/StickyNav";
 
 function App() {
   return (
@@ -12,6 +13,48 @@ function App() {
         <Button1 url="https://www.google.com" color="red" name="Google" />
         <Button2 url="https://www.facebook.com" color="green" name="Facebook" />
         <ToDoList />
+        <br />
+        <br />
+        <StickyNav>
+          <div className="navigation">
+            <p>sticky nav1</p>
+            <p>sticky nav2</p>
+            <p>sticky nav3</p>
+          </div>
+        </StickyNav>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </header>
     </div>
   );

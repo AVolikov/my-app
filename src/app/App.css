@@ -24,3 +24,8 @@ body {
 .App-link {
   color: #09d3ac;
 }
+
+.navigation {
+  background: grey;
+  padding: 10px;
+}
