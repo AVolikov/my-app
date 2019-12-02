@@ -4,6 +4,7 @@ import { Button1, Button2 } from "../common/Buttons";
 import ToDoList from "../to-do/ToDoList";
 import ScrollStatus from "../scroll-status/ScrollStatus.jsx";
 import StickyNav from "../sticky-nav/StickyNav";
+import ToDoReducerComponent from "../to-do/ToDoReducerComponent";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Button2 url="https://www.facebook.com" color="green" name="Facebook" />
         <ToDoList />
         <br />
+        <ToDoReducerComponent />
         <br />
         <StickyNav>
           <div className="navigation">
