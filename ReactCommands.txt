@@ -18,3 +18,8 @@ http://159.69.85.4:7777/api/alexey/tasks
 npm install axios --save
 
 npm install --save prop-types
+
+
+
+https://console.firebase.google.com/
+npm install -g firebase-tools
